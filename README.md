@@ -1,2 +1,2 @@
-# Mo-Ali04.github.io
+# Hotel Template
 A Hotel template site using Html &amp; CSS only
